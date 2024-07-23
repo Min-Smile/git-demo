@@ -6,3 +6,4 @@ hello zmd!
 hello zmd!
 hello zmd!
 hello zmd!
+zmd ssh
